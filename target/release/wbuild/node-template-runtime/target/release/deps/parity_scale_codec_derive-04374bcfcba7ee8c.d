@@ -1,0 +1,9 @@
+/home/ankit/pandora/substrate-node-template/target/release/wbuild/node-template-runtime/target/release/deps/libparity_scale_codec_derive-04374bcfcba7ee8c.so: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/decode.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/encode.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/utils.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/wbuild/node-template-runtime/target/release/deps/parity_scale_codec_derive-04374bcfcba7ee8c.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/decode.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/encode.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/utils.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/decode.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/encode.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/utils.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs:

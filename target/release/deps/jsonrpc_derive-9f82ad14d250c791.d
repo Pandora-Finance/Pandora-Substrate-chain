@@ -1,0 +1,11 @@
+/home/ankit/pandora/substrate-node-template/target/release/deps/libjsonrpc_derive-9f82ad14d250c791.so: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/options.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/params_style.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/rpc_attr.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/rpc_trait.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/to_client.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/to_delegate.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/jsonrpc_derive-9f82ad14d250c791.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/options.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/params_style.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/rpc_attr.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/rpc_trait.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/to_client.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/to_delegate.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/options.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/params_style.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/rpc_attr.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/rpc_trait.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/to_client.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-15.1.0/src/to_delegate.rs:

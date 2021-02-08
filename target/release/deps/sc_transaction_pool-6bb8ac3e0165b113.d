@@ -1,0 +1,11 @@
+/home/ankit/pandora/substrate-node-template/target/release/deps/sc_transaction_pool-6bb8ac3e0165b113.rmeta: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/api.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/revalidation.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/metrics.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/error.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/libsc_transaction_pool-6bb8ac3e0165b113.rlib: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/api.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/revalidation.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/metrics.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/error.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/sc_transaction_pool-6bb8ac3e0165b113.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/api.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/revalidation.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/metrics.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/error.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/api.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/revalidation.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/metrics.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sc-transaction-pool-2.0.1/src/error.rs:

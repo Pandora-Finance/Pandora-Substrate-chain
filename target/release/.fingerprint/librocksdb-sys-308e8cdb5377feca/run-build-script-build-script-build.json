@@ -1,0 +1,1 @@
+{"rustc":7570594122786484679,"features":"","target":0,"profile":0,"path":0,"deps":[[5550789368592570248,"build_script_build",false,4405612101305503403]],"local":[{"RerunIfChanged":{"output":"release/build/librocksdb-sys-308e8cdb5377feca/output","paths":["rocksdb/","snappy/"]}}],"rustflags":[],"metadata":0,"config":0}

@@ -1,0 +1,10 @@
+/home/ankit/pandora/substrate-node-template/target/release/deps/substrate_wasm_builder-d2f84776ca3e1238.rmeta: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/libsubstrate_wasm_builder-d2f84776ca3e1238.rlib: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/substrate_wasm_builder-d2f84776ca3e1238.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs:

@@ -1,0 +1,10 @@
+/home/ankit/pandora/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/parity_util_mem-e8fb127ab19fd784.rmeta: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/allocators.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/malloc_size.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/primitives_impls.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libparity_util_mem-e8fb127ab19fd784.rlib: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/allocators.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/malloc_size.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/primitives_impls.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/parity_util_mem-e8fb127ab19fd784.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/allocators.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/malloc_size.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/primitives_impls.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/allocators.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/malloc_size.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.7.0/src/primitives_impls.rs:

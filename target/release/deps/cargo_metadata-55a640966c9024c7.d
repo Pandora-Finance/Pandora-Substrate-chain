@@ -1,0 +1,11 @@
+/home/ankit/pandora/substrate-node-template/target/release/deps/cargo_metadata-55a640966c9024c7.rmeta: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/libcargo_metadata-55a640966c9024c7.rlib: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/cargo_metadata-55a640966c9024c7.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs:

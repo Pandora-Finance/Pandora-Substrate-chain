@@ -1,0 +1,11 @@
+/home/ankit/pandora/substrate-node-template/target/release/deps/sp_application_crypto-a8201913eee188e6.rmeta: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ed25519.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/sr25519.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ecdsa.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/traits.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/libsp_application_crypto-a8201913eee188e6.rlib: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ed25519.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/sr25519.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ecdsa.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/traits.rs
+
+/home/ankit/pandora/substrate-node-template/target/release/deps/sp_application_crypto-a8201913eee188e6.d: /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/lib.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ed25519.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/sr25519.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ecdsa.rs /home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/traits.rs
+
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/lib.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ed25519.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/sr25519.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/ecdsa.rs:
+/home/ankit/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-application-crypto-2.0.1/src/traits.rs:
